@@ -69,7 +69,7 @@ Example of an incoming message:
 417888 28/170 1шт
 Везде подрезка
 ```
-Пример полученного JSON:
+Example of the resulting JSON:
 
 ```
 [
